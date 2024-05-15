@@ -1,7 +1,13 @@
 # Functional-Programming
+
 > 프론트엔드 개발에 관한 서적을 읽고 공유하며 성장하는 스터디로,
 책을 통한 학습과 서로의 경험을 나누며 더 나은 프론트엔드 개발자가 되고자 합니다.
-> 
+
+
+<img width="429" alt="image" src="https://github.com/FE-TechBook-Study/Functional-Programming/assets/89092233/1412dfce-0f2b-4903-b2c0-3c6238bb068a">
+
+
+
 
 ## 💫 진행방식
 
