@@ -58,11 +58,6 @@
 <table>
 <tr height="120px">
 <td align="center">
-<a href="https://github.com/minjidev"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/68722909?v=4"/></a>
-<br />
-<a href="https://github.com/minjidev">김민지</a>
-</td>
-<td align="center">
 <a href="https://github.com/huisso97"><img height="100px" width="100px" src="https://github.com/huisso97.png""/></a>
 <br />
 <a href="https://github.com/huisso97">최소희</a>
@@ -71,11 +66,6 @@
 <a href="https://github.com/taejin-k"><img height="100px" width="100px" src="https://github.com/taejin-k.png""/></a>
 <br />
 <a href="https://github.com/taejin-k">김태진</a>
-</td>
-<td align="center">
-<a href="https://github.com/chuhoon"><img height="100px" width="100px" src="https://github.com/chuhoon.png""/></a>
-<br />
-<a href="https://github.com/chuhoon">추경훈</a>
 </td>
 <td align="center">
 <a href="https://github.com/headring"><img height="100px" width="100px" src="https://github.com/headring.png""/></a>
